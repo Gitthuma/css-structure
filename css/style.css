@@ -20,6 +20,7 @@ a:link {
   color: firebrick;
   border: solid black;
   width: 10%;
+  transform: scale(1.5);
 }
 
 #onething {
