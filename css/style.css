@@ -18,6 +18,8 @@ a:link {
 
 .manythings {
   color: firebrick;
+  border: solid black;
+  width: 10%;
 }
 
 #onething {
