@@ -7,3 +7,7 @@ p {
 h1 {
   color: cyan;
 }
+
+a:link {
+  color: darkmagenta;
+}
