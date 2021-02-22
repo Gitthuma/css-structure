@@ -9,6 +9,7 @@ h1 {
   color: cyan;
   background-color: black;
   width: 20%;
+  background: red url(bg-graphic.png) 10px 10px repeat-x fixed;
 }
 
 a:link {
