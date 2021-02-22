@@ -21,6 +21,10 @@ a:link {
   border: solid black;
   width: 10%;
   transform: scale(1.5);
+  background-image: linear-gradient(
+    rgba(0, 0, 255, 0.5),
+    rgba(255, 255, 0, 0.5)
+  );
 }
 
 #onething {
