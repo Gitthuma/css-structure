@@ -19,3 +19,7 @@ a:link {
 #onething {
   color: darkorange;
 }
+
+* {
+  color: cyan;
+}
